@@ -1,15 +1,15 @@
 # 프로젝트 기획
 
-### [현준식탁 바로가기](https://hj-table.kro.kr/)
+### [현준식탁 바로가기](https://sunjin.pythonanywhere.com/)
 
 ## 프로젝트 개요
 
-| 프로젝트 목적 | 본인만의 레시피를 공유해서 건강한 식탁을 만들기 위함|
-| --- | --- |
-| 프로젝트 기간 | 5/22 - 6/15 |
-| 발표 날짜 | 6/16 |
-| 팀명 | 현준 식탁 |
-| 주제 | 레시피 공유 웹사이트 |
+| 프로젝트 목적 | 본인만의 레시피를 공유해서 건강한 식탁을 만들기 위함 |
+| ------------- | ---------------------------------------------------- |
+| 프로젝트 기간 | 5/22 - 6/15                                          |
+| 발표 날짜     | 6/16                                                 |
+| 팀명          | 현준 식탁                                            |
+| 주제          | 레시피 공유 웹사이트                                 |
 
 ## 기술 스택
 
@@ -27,13 +27,13 @@
 
 ## 개발 역할 분담
 
-| 이름 | 역할 |
-| --- | --- |
-| [박현준](https://github.com/DT-HYUNJUN) | 조장, FRONT |
-| [감수지](https://github.com/SoozieKam) | BACK |
-| [김범서](https://github.com/lemon-lime-honey) | BACK |
-| [박태양](https://github.com/pty9714) | FULL |
-| [한선진](https://github.com/badajinsee) | FRONT |
+| 이름                                          | 역할        |
+| --------------------------------------------- | ----------- |
+| [박현준](https://github.com/DT-HYUNJUN)       | 조장, FRONT |
+| [감수지](https://github.com/SoozieKam)        | BACK        |
+| [김범서](https://github.com/lemon-lime-honey) | BACK        |
+| [박태양](https://github.com/pty9714)          | FULL        |
+| [한선진](https://github.com/badajinsee)       | FRONT       |
 
 ## 주제 사전 조사 & 분석
 
@@ -91,7 +91,6 @@
   </div>
 </details>
 
-
 <details>
   <summary>메인</summary>
   <div>
@@ -139,7 +138,6 @@
   <img src="readme_img/search_ingrd.png">
 </div>
 </details>
-
 
 <details>
 <summary>냉장고</summary>

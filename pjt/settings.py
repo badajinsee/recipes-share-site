@@ -47,6 +47,7 @@ ALLOWED_HOSTS = [
     '.hjtable.shop',
     'hj-table.kro.kr',
     '221.140.100.189',
+    '(sunjin).pythonanywhere.com'
 ]
 
 
